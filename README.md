@@ -1,3 +1,7 @@
+## Hotel-Site
+<p>You can browse the site at this link:
+  <a href="https://burcutas96.github.io/Hotel-Site/" target="_blank">https://burcutas96.github.io/Hotel-Site/</a>
+</p>
 
 <h2>Home<h2>
 <img src="img/readme/readme1.png">
